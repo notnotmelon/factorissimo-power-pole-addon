@@ -10,4 +10,4 @@ The recursion and overhead lighting technologies work the same as normal
 
 The mod uses no lua while running, and will have zero impact on your UPS
 
-###[> Check out my other mods! <](https://mods.factorio.com/user/notnotmelon)
+### [> Check out my other mods! <](https://mods.factorio.com/user/notnotmelon)
