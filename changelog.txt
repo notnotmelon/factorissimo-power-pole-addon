@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+  Info:
+    - Updated dependencies
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+  Info:
+    - New thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+  Changes:
+    - Adjust the copper wire connection point
+    - Placing a power pole anywhere in the factory building will turn on all the lights
+  Info:
+    - Added .17 version
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+  Changes:
+    - Initial release

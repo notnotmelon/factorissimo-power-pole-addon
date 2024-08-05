@@ -1,12 +1,13 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "name": "factorissimo-power-pole-addon",
+  "version": "1.0.6",
+  "title": "Factorissimo Power Pole Addon",
+  "author": "notnotmelon",
   "factorio_version": "1.1",
+  "homepage": "https://github.com/notnotmelon/factorissimo-power-pole-addon",
+  "description": "An addon to Factorissimo 2. In order to move power inside factory buildings you must now connect power poles to the factory power monitor",
   "dependencies": [
-    "base"
+    "base",
+    "factorissimo-2-notnotmelon"
   ]
 }
